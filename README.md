@@ -1,5 +1,5 @@
 # qb-jewelery
-Jewelry Robbery For QB-Core
+Jewelry Robbery For NYC QB-Core
 
 # Server.cfg Convar Update
 - Global DrawTextUi Option
