@@ -11,7 +11,9 @@ setr UseTarget false
 ```
 setr UseTarget true
 ```
-
+## NYC MAPS
+- [CRM DEVELOPMENT](https://discord.gg/crm)  
+- [Hell Script Shop](https://discord.gg/WKNRDtF9jp)
 # License
 
     QBCore Framework
